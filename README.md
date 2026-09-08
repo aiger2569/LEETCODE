@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/aiger2569/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/aiger2569/LEETCODE/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
