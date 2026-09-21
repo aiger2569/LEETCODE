@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/aiger2569/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [3870-count-commas-in-range](https://github.com/aiger2569/LEETCODE/tree/master/3870-count-commas-in-range) |
 ## Binary Search
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aiger2569/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/aiger2569/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aiger2569/LEETCODE/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/aiger2569/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/aiger2569/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
