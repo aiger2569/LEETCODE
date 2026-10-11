@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aiger2569/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/aiger2569/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aiger2569/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aiger2569/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aiger2569/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aiger2569/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
