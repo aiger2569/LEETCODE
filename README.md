@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aiger2569/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aiger2569/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aiger2569/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aiger2569/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aiger2569/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aiger2569/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aiger2569/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aiger2569/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aiger2569/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aiger2569/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aiger2569/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aiger2569/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aiger2569/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aiger2569/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
