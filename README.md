@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aiger2569/LEETCODE/tree/master/0242-valid-anagram) |
 | [0482-license-key-formatting](https://github.com/aiger2569/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0940-distinct-subsequences-ii](https://github.com/aiger2569/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/aiger2569/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
