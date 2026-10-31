@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aiger2569/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aiger2569/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aiger2569/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/aiger2569/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aiger2569/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aiger2569/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/aiger2569/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/aiger2569/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [0940-distinct-subsequences-ii](https://github.com/aiger2569/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3665-twisted-mirror-path-count](https://github.com/aiger2569/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aiger2569/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/aiger2569/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aiger2569/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aiger2569/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aiger2569/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
