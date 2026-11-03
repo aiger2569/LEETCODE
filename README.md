@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aiger2569/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/aiger2569/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/aiger2569/LEETCODE/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/aiger2569/LEETCODE/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/aiger2569/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0940-distinct-subsequences-ii](https://github.com/aiger2569/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aiger2569/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/aiger2569/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aiger2569/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/aiger2569/LEETCODE/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aiger2569/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/aiger2569/LEETCODE/tree/master/0779-k-th-symbol-in-grammar) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aiger2569/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aiger2569/LEETCODE/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
