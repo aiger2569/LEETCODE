@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aiger2569/LEETCODE/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/aiger2569/LEETCODE/tree/master/0415-add-strings) |
 | [0482-license-key-formatting](https://github.com/aiger2569/LEETCODE/tree/master/0482-license-key-formatting) |
+| [0541-reverse-string-ii](https://github.com/aiger2569/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/aiger2569/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aiger2569/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/aiger2569/LEETCODE/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aiger2569/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aiger2569/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/aiger2569/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/aiger2569/LEETCODE/tree/master/0541-reverse-string-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
 |  |
