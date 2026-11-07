@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aiger2569/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiger2569/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2747-count-zero-request-servers](https://github.com/aiger2569/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aiger2569/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aiger2569/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aiger2569/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aiger2569/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aiger2569/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aiger2569/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/aiger2569/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aiger2569/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aiger2569/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aiger2569/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aiger2569/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aiger2569/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aiger2569/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/aiger2569/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aiger2569/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aiger2569/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/aiger2569/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2747-count-zero-request-servers](https://github.com/aiger2569/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## String Matching
 |  |
 | ------- |
