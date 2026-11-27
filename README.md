@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aiger2569/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/aiger2569/LEETCODE/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aiger2569/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aiger2569/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/aiger2569/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3665-twisted-mirror-path-count](https://github.com/aiger2569/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aiger2569/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aiger2569/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aiger2569/LEETCODE/tree/master/0011-container-with-most-water) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aiger2569/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aiger2569/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aiger2569/LEETCODE/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sliding Window
 |  |
 | ------- |
